@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Koulen&family=Lobster&family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&family=Shrikhand&family=Spline+Sans+Mono:wght@500&display=swap');
+h1{
+    letter-spacing: 10px !important;
+}
+.container,h1{
+    font-family: 'Alfa Slab One', cursive !important;
+    font-family: 'Koulen', cursive ;
+    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shrikhand', cursive;
+    font-family: 'Spline Sans Mono', monospace;
+    background-image: url("images/back.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 2rem;
+    }
+.container1{
+    padding-top:4rem;
+    padding-bottom: 1rem;
+}
+.container2{
+    padding-top:1rem;
+    padding-bottom: 1rem;
+}
+.drum{
+    padding: 50px;
+    font-size: 40px;
+    border-radius: 2rem;
+}
+.w{
+    background-image: url("images/tom1.png");
+}
+.a{
+    background-image: url("images/tom2.png");
+}
+.s{
+    background-image: url("images/tom3.png");
+}
+.d{
+    background-image: url("images/tom4.png");
+}
+.j{
+    background-image: url("images/crash.png");
+}
+.k{
+    background-image: url("images/kick.png");
+}
+.l{
+    background-image: url("images/snare.png");
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.foot{
+    margin-top: 20px;
+}
